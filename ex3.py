@@ -1,3 +1,4 @@
+# http://learnpythonthehardway.org/book/ex3.html
 print "I will now count my chickens:"
 
 print "Hens", 25 + 30 / 6
